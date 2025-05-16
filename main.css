@@ -1,0 +1,20 @@
+.custom-container {
+    width: 100%;
+    max-width: 70%;
+    min-width: 300px; /* valor fixo mínimo para mobile */
+    margin: 0 auto;
+}
+
+body {
+    padding-top: 5%;
+    background: linear-gradient(to right, #74ebd5, #acb6e5);
+}
+
+.form-background {
+    background-color:aliceblue; 
+    border-radius: 16px;
+    padding: 2rem;
+    max-width: 800px;
+    margin: 2rem auto;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1); 
+}
